@@ -1,2 +1,7 @@
 streamlit
 openai
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+pydantic
